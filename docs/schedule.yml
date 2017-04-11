@@ -450,43 +450,31 @@
        support: ""
   # Tuesday
   - day:
-    - "9:00AM - 10:00AM":
-       title: "Outcomes Prep"
-       url: ""
-       lead: ""
-       support: ""
-    - "10:00AM - 12:30PM":
-       title: "Outcomes: Studio Tour"
-       url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week05"
-       lead: ""
-       support: ""
-    - "2:30PM - 4:30PM":
-       title: "Lab Sinatra"
-       url: "https://github.com/ga-wdi-exercises/pokenatra"
-       lead: "Andy"
-       support: ""
-    - "4:30PM - 5:00PM":
-       title: "Squad Scrum"
-       lead: ""
-       support: ""
-  # Wednesday
-  - day:
     - "9:00AM":
        title: "Due At 9: Homework"
        color: red
        url:
         - Getting Started w/ Rails, Chapters 1-5: https://github.com/ga-wdi-exercises/rails_getting_started
-       lead: ""
-       support: ""
     - "9:00AM - 10:00AM":
-       title: "Review / Code Challenge"
+       title: "Code Challenge / Review"
        lead: "Andy"
-       support: ""
-    - "10:00AM - 12:30PM":
+    - "10:00AM - 12:00PM":
+       title: "Lab Sinatra"
+       url: "https://github.com/ga-wdi-exercises/pokenatra"
+       lead: "Andy"
+    - "12:00PM - 12:30PM":
+       title: "Squad Scrum"
+    - "2:30PM - 5:00PM":
        title: "Intro to Rails/MVC"
        url: "https://github.com/ga-wdi-lessons/http-mvc-intro-rails"
        lead: "John"
        support: "Andy"
+  # Wednesday
+  - day:
+    - "9:00AM - 12:30PM":
+       title: "Outcomes: Post Tour"
+       lead: "Juan"
+       support: "John"
     - "2:30PM - 5:00PM":
        title: "Rails: Models & Migrations"
        url: "https://github.com/ga-wdi-lessons/rails-activerecord"
