@@ -431,6 +431,7 @@
        support: ""
     - "9:00AM - 10:00AM":
         title: "Checkpoint 04"
+        url: "https://github.com/ga-wdi-exercises/checkpoint-04"
         lead: "John"
         support: ""
     - "10:00AM - 12:30PM":
