@@ -473,13 +473,17 @@
        support: "Andy"
   # Wednesday
   - day:
-    - "9:00AM - 12:30PM":
-       title: "Outcomes: Post Tour"
+    - "9:00AM - 10:00AM":
+       title: "Outcomes Prep"
+       lead: ""
+       support: ""
+    - "10:00AM - 12:30PM":
+       title: "Rails: Models & Migrations"
+       url: "https://github.com/ga-wdi-lessons/rails-activerecord"
        lead: "Juan"
        support: "John"
     - "2:30PM - 5:00PM":
-       title: "Rails: Models & Migrations"
-       url: "https://github.com/ga-wdi-lessons/rails-activerecord"
+       title: "Outcomes: Post Tour"
        lead: "Juan"
        support: "John"
   # Thursday
