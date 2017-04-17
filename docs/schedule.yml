@@ -452,11 +452,6 @@
        support: ""
   # Tuesday
   - day:
-    - "9:00AM":
-       title: "Due At 9: Homework"
-       color: red
-       url:
-        - Getting Started w/ Rails, Chapters 1-5: https://github.com/ga-wdi-exercises/rails_getting_started
     - "9:00AM - 10:00AM":
        title: "Code Challenge / Review"
        lead: "Andy"
@@ -473,6 +468,11 @@
        support: "Andy"
   # Wednesday
   - day:
+    - "9:00AM":
+       title: "Due At 9: Homework"
+       color: red
+       url:
+        - Getting Started w/ Rails, Chapters 1-5: https://github.com/ga-wdi-exercises/rails_getting_started
     - "9:00AM - 10:00AM":
        title: "Outcomes Prep"
        lead: ""
