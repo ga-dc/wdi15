@@ -531,7 +531,7 @@
        lead: "Juan"
        support: ""
     - "10:00AM - 12:30PM":
-       title: "Devise & CanCanCan"
+       title: "Devise"
        url: 'https://github.com/ga-wdi-lessons/devise'
        lead: "John"
        support: "Juan"
@@ -583,6 +583,7 @@
        support: ""
     - "02:30PM - 5:00PM":
        title: "Agile"
+       url: "https://github.com/ga-wdi-lessons/agile"
        lead: "John"
        support: "Andy"
   # Thursday
