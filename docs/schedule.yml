@@ -988,14 +988,14 @@
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
-       title: "Outcomes: Cracking the Technical Interview"
-       url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week11/WDI"
-       lead: ""
-       support: ""
-    - "2:30PM - 5:00PM":
        title: "Lab: React Router"
        url: ""
        lead: "John"
+       support: ""
+    - "2:30AM - 5:00PM":
+       title: "Outcomes: Cracking the Technical Interview"
+       url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week11/WDI"
+       lead: ""
        support: ""
   # Wednesday
   - day:
