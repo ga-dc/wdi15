@@ -736,12 +736,6 @@
        support: ""
   # Tuesday
   - day:
-    - "9:00AM":
-       title: "Homework Due"
-       color: red
-       url:
-         - Movie Browser: https://github.com/ga-wdi-exercises/movie-browser
-         - WDInstagram: https://github.com/ga-wdi-exercises/wdinstagram_angular
     - "9:00AM - 10:00AM":
        title: "Outcomes Prep"
        url: ""
@@ -759,6 +753,12 @@
         support: ""
   # Wednesday
   - day:
+    - "9:00AM":
+       title: "Homework Due"
+       color: red
+       url:
+         - Movie Browser: https://github.com/ga-wdi-exercises/movie-browser
+         - WDInstagram: https://github.com/ga-wdi-exercises/wdinstagram_angular
     - "9:00AM - 10:00AM":
         title: "Code Challenge"
         url: "Andy"
