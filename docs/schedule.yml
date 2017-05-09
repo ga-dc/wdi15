@@ -815,8 +815,8 @@
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
-       title: "Outcomes: Catch Your Breath and Regroup"
-       url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week09"
+       title: "Outcomes: Final GA Profile"
+       url: "https://github.com/ga-dc/outcomes/blob/master/roadmap/week10/HWweek10.md"
        lead: ""
        support: ""
     - "2:30PM - 5:00PM":
@@ -910,8 +910,8 @@
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
-       title: "Outcomes: Ask the Experts Panel Discussion (Hiring Managers and Recruiters)"
-       url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week10"
+       title: "Outcomes: Draft Portfolio"
+       url: "https://github.com/ga-dc/outcomes/blob/master/roadmap/week10/DraftPortfolio.md"
        lead: ""
        support: ""
     - "2:30PM - 5:00PM":
@@ -1061,8 +1061,8 @@
        lead: ""
        support: ""
     - "10:00AM - 12:30PM":
-       title: "Outcomes: Qualification Check-in"
-       url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week12/WDI"
+       title: "Outcomes: Final Materials"
+       url: "https://github.com/ga-dc-outcomes/final-materials/blob/master/README.md"
        lead: ""
        support: ""
     - "2:30PM - 5:00PM":
@@ -1083,6 +1083,51 @@
         title: "Presentations"
     - "4:00PM - 5:00PM":
         title: "Final Scrum / Feedback-back"
+  # wk13
+  # Monday
+  - day:
+    - "9:00AM - 5:00PM":
+        title: ""
+  # Tuesday
+  - day:
+    - "10:00AM - 12:00PM":
+        title: "Portfolio Reviews"
+        url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week13"
+  # Wednesday
+  - day:
+    - "9:00AM - 5:00PM":
+        title: ""
+  # Thursday
+  - day:
+    - "9:00AM - 5:00PM":
+        title: ""
+  # Friday
+  - day:
+    - "10:00AM - 3:30PM":
+        title: "Outcomes Bootcamp"
+        url: "https://github.com/ga-dc/outcomes/blob/master/roadmap/Outcomes%20Bootcamp/readme.md"
+ # wk14
+ # Monday
+  - day:
+    - "9:00AM - 5:00PM":
+        title: ""
+ # Tuesday
+  - day:
+    - "9:00AM - 5:00PM":
+        title: ""
+ # Wednesday
+  - day:
+    - "4:00PM - 6:30PM":
+        title: "Student Spotlight"
+        url: "https://github.com/ga-dc/outcomes/blob/master/roadmap/Student%20Spotlight/readme.md"
+ # Thursday
+  - day:
+    - "9:00AM - 5:00PM":
+        title: ""
+ # Friday
+  - day:
+    - "9:00AM - 5:00PM":
+        title: ""
   # Buffer
   - day:
     - "9:00AM - 10:00AM":
