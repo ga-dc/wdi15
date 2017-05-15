@@ -871,6 +871,7 @@
        support: "Juan"
     - "2:30PM - 5:00 PM":
        title: "MEAN app"
+       url: "https://github.com/ga-wdi-lessons/building-a-mean-app"
        lead: "John"
        support: "Andy"
   # wk10
