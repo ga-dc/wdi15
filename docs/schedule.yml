@@ -843,6 +843,11 @@
         support: ""
   # Thursday
   - day:
+    - "9:00AM":
+       title: "Due At 9: Read Mongo Lesson"
+       color: red
+       url:
+         - Mongo Reading: "http://github.com/ga-wdi-lessons/mongo-intro"
     - "9:00AM - 10:00AM":
        title: "Review / Code Challenge"
        lead: "Andy"
