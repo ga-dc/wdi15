@@ -946,6 +946,13 @@
   # Thursday
   - day:
     - "9:00AM":
+       title: "Homework Due"
+       url:
+         - WDI Compliment (Express): https://github.com/ga-wdi-exercises/compliment-express
+         - YUM!: https://github.com/ga-wdi-exercises/yum
+       lead: ""
+       support: ""
+    - "9:00AM":
        title: "README swap"
        url: "https://github.com/ga-wdi-exercises/sweet-libs"
        lead: "John"
