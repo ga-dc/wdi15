@@ -947,6 +947,7 @@
   - day:
     - "9:00AM":
        title: "Homework Due"
+       color: red
        url:
          - WDI Compliment (Express): https://github.com/ga-wdi-exercises/compliment-express
          - YUM!: https://github.com/ga-wdi-exercises/yum
