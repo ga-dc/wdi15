@@ -939,9 +939,14 @@
        url: "https://github.com/ga-wdi-exercises/sweet-libs"
        lead: ""
        support: ""
-    - "2:30PM - 5:00 PM":
+    - "2:30PM - 4:00 PM":
        title: "Teach Yo Self"
        url: "https://github.com/ga-wdi-exercises/sweet-libs"
+       lead: ""
+       support: ""
+    - "4:30PM - 5:00 PM":
+       title: "Outcomes AMA"
+       url: ""
        lead: ""
        support: ""
   # Thursday
