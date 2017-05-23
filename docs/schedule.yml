@@ -924,7 +924,7 @@
        support: ""
     - "2:30PM - 5:00PM":
        title: "Web Sockets"
-       url: ""
+       url: "https://github.com/ga-wdi-lessons/websockets-node"
        lead: "Juan"
        support: "John"
   # Wednesday
@@ -990,7 +990,7 @@
         support: "Andy"
     - "2:30PM - 5:00 PM":
        title: "React Router"
-       url: ""
+       url: "https://github.com/ga-wdi-lessons/react-router"
        lead: "Juan"
        support: "John"
   # wk11
