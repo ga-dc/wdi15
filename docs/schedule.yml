@@ -969,10 +969,10 @@
        lead: "Andy"
        support: "Juan"
     - "2:30PM - 5:00 PM":
-       title: "Lab: React Components"
-       lead: "Andy"
-       support: ""
-       url: "https://github.com/ga-wdi-exercises/component-extravaganza"
+        title: "React 2"
+        url: "https://github.com/ga-wdi-lessons/react-continued"
+        lead: "John"
+        support: "Andy"
     - "5:00 PM":
        title: "Due At 5: Lab"
        color: red
@@ -984,10 +984,10 @@
         lead: "Andy"
         support: ""
     - "10:00AM - 12:30AM":
-        title: "React 2"
-        url: "https://github.com/ga-wdi-lessons/react-continued"
-        lead: "John"
-        support: "Andy"
+       title: "Lab: React Components"
+       lead: "Andy"
+       support: ""
+       url: "https://github.com/ga-wdi-exercises/component-extravaganza"
     - "2:30PM - 5:00 PM":
        title: "React Router"
        url: "https://github.com/ga-wdi-lessons/react-router"
