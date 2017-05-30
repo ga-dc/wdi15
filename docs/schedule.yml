@@ -1010,7 +1010,7 @@
        support: ""
     - "10:00AM - 12:30PM":
        title: "Lab: React Router"
-       url: ""
+       url: "https://github.com/ga-wdi-exercises/react-router-lab"
        lead: "John"
        support: ""
     - "2:30AM - 5:00PM":
