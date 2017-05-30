@@ -1027,14 +1027,14 @@
         support: ""
     - "10:00AM - 12:30PM":
         title: "React Redux 1"
-        url: ""
+        url: "https://github.com/ga-wdi-lessons/react-redux"
         lead: "Andy"
         support: "Juan"
     - "2:30PM - 5:00PM":
-        title: "React Redux 2"
-        url: ""
-        lead: "John"
-        support: "Andy"
+        title: "Lab: React Redux"
+        url: "https://github.com/ga-wdi-exercises/react-redux-shopping-cart"
+        lead: "Andy"
+        support: ""
   # Thursday
   - day:
     - "9:00AM - 10:00AM":
@@ -1043,30 +1043,30 @@
         lead: "John"
         support: ""
     - "10:00AM - 12:30PM":
-        title: "Lab: React Redux"
+        title: "Testing Node with Mocha/Chai"
         url: ""
-        lead: "Juan"
+        lead: "John"
+        support: "Juan"
+    - "2:30PM - 3:30PM":
+        title: "Squad Scrums / Project 4 Intro"
+        url: ""
+        lead: ""
         support: ""
-    - "2:30PM - 4:30PM":
-        title: "Lab: React Redux"
-        url: ""
-        lead: "Andy"
-        support: ""
-    - "4:30PM - 5:00PM":
-        title: "Squad Scrum"
-        url: ""
+    - "3:30PM - 5:00PM":
+        title: "Project 4 Planning"
+        url: "https://github.com/ga-wdi-exercises/project4"
         lead: ""
         support: ""
   # Friday
   - day:
     - "09:00AM - 10:00AM":
-        title: "Intro Project 4"
-        url: ""
+        title: "Project 4"
+        url: "https://github.com/ga-wdi-exercises/project4"
         lead: ""
         support: ""
     - "10:00AM - 5:00PM":
         title: "Project 4"
-        url: ""
+        url: "https://github.com/ga-wdi-exercises/project4"
         lead: ""
         support: ""
   # wk12
@@ -1074,6 +1074,7 @@
   - day:
     - "9:00AM - 5:00PM":
        title: "Project 4"
+       url: "https://github.com/ga-wdi-exercises/project4"
   # Tuesday
   - day:
     - "9:00AM - 10:00AM":
@@ -1088,20 +1089,24 @@
        support: ""
     - "2:30PM - 5:00PM":
        title: "Project 4"
+       url: "https://github.com/ga-wdi-exercises/project4"
   # Wednesday
   - day:
     - "9:00AM - 5:00PM":
        title: "Project 4"
+       url: "https://github.com/ga-wdi-exercises/project4"
   # Thursday
   - day:
     - "9:00AM - 5:00PM":
        title: "Project 4"
+       url: "https://github.com/ga-wdi-exercises/project4"
   # Friday
   - day:
     - "9:00AM - 12:30PM":
         title: "Project 4"
+        url: "https://github.com/ga-wdi-exercises/project4"
     - "2:00PM - 4:00PM":
-        title: "Presentations"
+        title: "Project 4 Presentations"
     - "4:00PM - 5:00PM":
         title: "Final Scrum / Feedback-back"
   # wk13
