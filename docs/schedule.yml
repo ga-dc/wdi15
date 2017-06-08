@@ -1100,10 +1100,10 @@
     - "9:00AM - 12:30PM":
         title: "Project 4"
         url: "https://github.com/ga-wdi-exercises/project4"
-    - "2:00PM - 4:00PM":
+    - "2:00PM - 3:30PM":
         title: "Project 4 Presentations"
-    - "4:00PM - 5:00PM":
-        title: "Final Scrum / Feedback-back"
+    - "3:30PM - 5:00PM":
+        title: "Feedback-Back / Final Scrums"
   # wk13
   # Monday
   - day:
