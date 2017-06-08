@@ -1102,8 +1102,11 @@
         url: "https://github.com/ga-wdi-exercises/project4"
     - "2:00PM - 3:30PM":
         title: "Project 4 Presentations"
-    - "3:30PM - 5:00PM":
+    - "3:30PM - 4:30PM":
         title: "Feedback-Back / Final Scrums"
+    - "4:30 - 5:00":
+        title: "Life After WDI"
+        url: "https://github.com/ga-dc/after-wdi"
   # wk13
   # Monday
   - day:
